@@ -1,0 +1,8 @@
+{
+  "name": "satriachat",
+  "version": "1.0.0",
+  "description": "SatriaChat WhatsApp Sender",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
